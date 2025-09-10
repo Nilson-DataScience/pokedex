@@ -37,8 +37,6 @@ Uma aplicação web simples e estilizada que simula uma Pokédex. O usuário pod
 - Exibição de tipos, habilidades e estatísticas
 - Animações e efeitos sonoros
 
-## 📄 Licença
 
-Uso livre para fins educacionais e pessoais. Modifique e compartilhe à vontade!
 
 
